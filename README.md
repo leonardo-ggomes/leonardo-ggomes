@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ThreeJS, Rust and TensorFlow**
 
-- 🤝 I’m looking for help with [Eduhub](https://leonardo-ggomes.github.io/edu-hub/)
+- 🤝 I’m looking for help with [TrilhaDaIA](https://leonardo-ggomes.github.io/trilhadaia/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/leonardo-ggomes](https://github.com/leonardo-ggomes)
 
